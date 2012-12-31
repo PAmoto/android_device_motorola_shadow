@@ -89,3 +89,5 @@ ro.media.capture.shuttertone=1
 ro.media.capture.noSensorLSC=1
 ro.media.panorama.defres=2048x1536
 ro.media.panorama.frameres=1280x720
+
+hwui.use.blacklist=true
